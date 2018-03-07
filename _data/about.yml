@@ -1,22 +1,22 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-name:          "Code Com"
+name:          "Bharti Yadav"
 summary:       "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself"
 image:         "avatar.jpg"
 avatar:        "true"
 title:         "Nimbus Inspector"
-contact_email: "codecomm@youremailaddress.com"
-contact_info:  "742 Evergreen Terrace, Smurf field | 555-7334 | codecomm@youremailaddress.com"
+contact_email: "yadavbharti1507@gmail.com"
+contact_info:  " Gurgaon | 9643457977 | yadavbharti1507@gmail.com"
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 
 resume_social_links:
-  resume_github_url:            "https://github.com/code-comm/jekyll-resume-template"
-  resume_twitter_url:           "http://twitter.com/code_comm"
+  resume_github_url:            "https://github.com/YadavBharti/Bharti_Resume"
+  #resume_twitter_url:           "http://twitter.com/code_comm"
   # resume_dribbble_url:        "insert dribbble URL here"
-  resume_facebook_url:          "https://www.facebook.com/codecomm/"
+  #resume_facebook_url:          "https://www.facebook.com/codecomm/"
   # resume_linkedin_url:        "insert linkedin URL here"
   # resume_instagram_url:       "insert your Instagram URL here"
-  resume_website_url:           "http://codecomm.org"
+  resume_website_url:           "https://yadavbharti.github.io/Bharti_Resume/"
 resume_print_social_links:      true
