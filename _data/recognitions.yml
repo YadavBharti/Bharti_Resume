@@ -1,6 +1,5 @@
 # Lines starting with '#' in yml files are commented and will not affect data
-
--- recognition	:	"Programming Languages"
+- recognition	:	"Programming Languages"
   #event		: 	"Safety Inspector"
   #date		: 	"Nov, 1990"
   detail	:  "C, C++, Java, Servlets, JSP"
