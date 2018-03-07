@@ -1,10 +1,10 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
 name:          "Bharti Yadav"
-summary:       "This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself"
+summary:       "Pursued B.Tech in Computer Science From University Institute of Engineering and Technology, MDU"
 image:         "avatar.jpg"
 avatar:        "true"
-title:         "Nimbus Inspector"
+title:         "Software Developer"
 contact_email: "yadavbharti1507@gmail.com"
 contact_info:  " Gurgaon | 9643457977 | yadavbharti1507@gmail.com"
 
@@ -18,5 +18,5 @@ resume_social_links:
   #resume_facebook_url:          "https://www.facebook.com/codecomm/"
   # resume_linkedin_url:        "insert linkedin URL here"
   # resume_instagram_url:       "insert your Instagram URL here"
-  resume_website_url:           "https://yadavbharti.github.io/Bharti_Resume/"
+  #resume_website_url:           "https://yadavbharti.github.io/Bharti_Resume/"
 resume_print_social_links:      true

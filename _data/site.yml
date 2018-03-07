@@ -1,7 +1,7 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
 # Site settings
-title: "Jekyll Resume Template"
+title: "Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 

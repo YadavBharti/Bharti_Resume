@@ -1,7 +1,19 @@
-# Lines starting with '#' in yml files are commented and will not affect data
+# Lines starting with '#' in yml files are commented and will not affect data  
+  Project: "Toc Transformation"
+  title: "Software Engineer"
+  from: "July, 2016"
+  untill: "March, 2017"
+  detail: "Indus Towers was incorporated with an objective to provide “shared telecom infrastructure” to telecom operators on a non-discriminatory basis"
 
-- project : "donutfinder.io"
-  role : "Founder & Primary Developer"
-  from : "2012"
-  untill : "Present"
-  detail : "Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home."
+- Project: "Virtual Mobility"
+  title: "Software Engineer"
+  from: "April, 2017"
+  untill: "March, 2018"
+  detail: "Virtual Mobility is a Platform for efficient and interactive knowledge transfer backed up by virtual presence at any required location to visualise the problematic issues to be resolved without being personally present at location.
+This is a Service Platform for all such users who need to offer on shore services for completing the contract, offer on site services for Customer requirements and satisfaction, Maintenance services required on site and on recurring basis.
+"
+- project : "Institution Management System"
+  role : " ABS IT Services"
+  from : "July, 2014"
+  untill : "September, 2014"
+  detail : "To Manage the records of Institute in proper and easy way"

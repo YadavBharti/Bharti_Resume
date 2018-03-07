@@ -1,13 +1,15 @@
 # Lines starting with '#' in yml files are commented and will not affect data
 
-- work: "Springfield Nuclear Power Plant"
-  title: "Safety Inspector"
-  from: "Nov, 1990"
-  untill: "Present"
-  detail: "Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section."
+- work: "Toc Transformation"
+  title: "Software Engineer"
+  from: "July, 2016"
+  untill: "March, 2017"
+  detail: "Indus Towers was incorporated with an objective to provide “shared telecom infrastructure” to telecom operators on a non-discriminatory basis"
 
-- work: "Winter Doku Power Plant"
-  title: "Safety Distracter"
-  from: "Nov, 1980"
-  untill: "Nov, 1990"
-  detail: "Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section."
+- work: "Virtual Mobility"
+  title: "Software Engineer"
+  from: "April, 2017"
+  untill: "March, 2018"
+  detail: "Virtual Mobility is a Platform for efficient and interactive knowledge transfer backed up by virtual presence at any required location to visualise the problematic issues to be resolved without being personally present at location.
+This is a Service Platform for all such users who need to offer on shore services for completing the contract, offer on site services for Customer requirements and satisfaction, Maintenance services required on site and on recurring basis.
+"
